@@ -1,0 +1,21 @@
+{
+  "name": "PrideToken List",
+  "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg",
+  "timestamp": "2024-11-25T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 42220,
+      "address": "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd",
+      "symbol": "PRD",
+      "name": "PrideToken",
+      "decimals": 18,
+      "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+
