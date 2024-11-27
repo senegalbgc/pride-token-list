@@ -18,7 +18,7 @@ We have established a crowdfunding platform specifically for LGBTQ+ users to rai
 ## Token Information
 - **Name:** PrideToken
 - **Symbol:** PRD
-- **Contract Address:** `0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd`
+- **Contract Address:** `0x1B0b2647Fc522417d79d8080F9D41977f03D3C46`
 - **Decimals:** 18
 - **Chain:** Celo (Mainnet)
 - **Logo:** [PrideToken Logo](https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg)
@@ -31,6 +31,11 @@ Developers and integrators can use the token metadata provided here to support P
 
 ## Contact
 For any inquiries or support, please contact us at [support@pridefunding.org](mailto:support@pridefunding.org).
+
+For specific questions regarding the development or technical aspects of PrideToken (PRD), you can reach out to our founder and lead developer, a pioneering woman in the blockchain industry: 
+  
+- Name: Natty Ndate Beye - Loeschke  
+- Email: [nattyn@senegalbgc.org](mailto:nattyn@senegalbgc.org)  
 
 ## Social Media
 - [Website](https://pridefunding.org)
