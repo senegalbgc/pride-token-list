@@ -64,11 +64,12 @@ Support and Empowerment: Directly funding projects, scholarships, and initiative
 Transparency and Security: Leveraging blockchain technology to ensure all transactions are secure and transparent.
 
 9. Contact Information
-For any inquiries or support, please contact us at pridetoken@pridefunding.org.
+For any inquiries or support about the PrideToken, please contact us at pridetoken@pridefunding.org.
+
 
 For specific questions regarding the development or technical aspects of PrideToken (PRD), you can reach out to our founder and lead developer, a pioneering woman in the blockchain industry:
 Name: Natty Ndate Beye - Loeschke
-Email: nattyn@senegalbgc.org
+Email: natty@pridefunding.org or nattyn@senegalbgc.org
   
 10. Social Media  
 Website: PrideToken Website
