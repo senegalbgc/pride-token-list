@@ -1,11 +1,9 @@
 # PrideToken (PRD) - Official Token List
 
-PrideToken (PRD) is a cryptocurrency designed to support LGBTQ+ initiatives through funding and grants.
+PrideToken (PRD) is a cryptocurrency initiative under the PrideFunding Network, designed to support LGBTQ+ initiatives through funding and grants.
+PrideFunding Network is registered in Ohio as the DBA of Boys & Girls Clubs of Senegal, EIN: 83-3699796.
 
-PrideToken (PRD) is committed to empowering the LGBTQ+ community through decentralized finance (DeFi). By leveraging blockchain technology, PrideToken aims to provide funding for grants, scholarships, and various community-driven projects.
-
-## Mission
-Our mission is to create a supportive and inclusive ecosystem that promotes equal opportunities and financial empowerment for the LGBTQ+ community.
+PrideToken (PRD) aims to empower the LGBTQ+ community by leveraging decentralized finance (DeFi). Our mission is to create a supportive and inclusive ecosystem that offers equal opportunities and financial empowerment.
 
 ## Crowdfunding Platform
 We have established a crowdfunding platform specifically for LGBTQ+ users to raise funds for various causes and projects. Users can initiate crowdfunding campaigns and receive funds in PrideToken (PRD). Donors are also encouraged to contribute using PrideToken, fostering a supportive economic ecosystem.
@@ -44,7 +42,7 @@ For any inquiries or support, please contact us at [pridetoken@pridefunding.org]
 For specific questions regarding the development or technical aspects of PrideToken (PRD), you can reach out to our founder and lead developer, a pioneering woman in the blockchain industry: 
   
 - Name: Natty Ndate Beye - Loeschke  
-- Email: [nattyn@senegalbgc.org](mailto:nattyn@senegalbgc.org)
+- Email: [nattyn@pridefunding.org](mailto:nattyn@pridefunding.org) or [nattyn@senegalbgc.org](mailto:nattyn@senegalbgc.org)
 - LinkedIn: [Natty Ndate Beye - Loeschke](https://www.linkedin.com/in/nbeyeloeschke)  
 
 ## Social Media
