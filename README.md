@@ -37,7 +37,7 @@ This repository contains the official token list and metadata for PrideToken (PR
 Developers and integrators can use the token metadata provided here to support PrideToken in their platforms. The token list includes all necessary details and the logo URI for easy integration.
 
 ## Contact
-For any inquiries or support, please contact us at [pridetoken@pridefunding.org](mailto:pridetoken@pridefunding.org).
+For any inquiries or support about the PrideToken, please contact us at [pridetoken@pridefunding.org](mailto:pridetoken@pridefunding.org).
 
 For specific questions regarding the development or technical aspects of PrideToken (PRD), you can reach out to our founder and lead developer, a pioneering woman in the blockchain industry: 
   
