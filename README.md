@@ -1,9 +1,14 @@
 # PrideToken (PRD) - Official Token List
 
-PrideToken (PRD) is a cryptocurrency initiative under the PrideFunding Network, designed to support LGBTQ+ initiatives through funding and grants.
-PrideFunding Network is registered in Ohio as the DBA of Boys & Girls Clubs of Senegal, EIN: 83-3699796.
+PrideToken (PRD) is a cryptocurrency initiative under the PrideFunding Network, designed to support LGBTQ+ initiatives through decentralized finance. By leveraging blockchain technology, PrideToken provides funding for grants, scholarships, and various community-driven projects. Our crowdfunding platform allows LGBTQ+ users and allies to start campaigns and receive funds in PrideToken (PRD).
 
-PrideToken (PRD) aims to empower the LGBTQ+ community by leveraging decentralized finance (DeFi). Our mission is to create a supportive and inclusive ecosystem that offers equal opportunities and financial empowerment.
+PrideFunding Network is registered in Ohio as the DBA (Doing Business As) of Boys & Girls Clubs of Senegal. Official registration details are as follows:
+
+EIN: 83-3699796
+
+[PrideFunding Network Registration Link](https://businesssearch.ohiosos.gov/?=businessDetails/5314327)
+
+
 
 ## Crowdfunding Platform
 We have established a crowdfunding platform specifically for LGBTQ+ users to raise funds for various causes and projects. Users can initiate crowdfunding campaigns and receive funds in PrideToken (PRD). Donors are also encouraged to contribute using PrideToken, fostering a supportive economic ecosystem.
