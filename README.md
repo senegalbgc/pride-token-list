@@ -2,7 +2,7 @@
 
 PrideToken (PRD) is a cryptocurrency initiative under the PrideFunding Network, designed to support LGBTQ+ initiatives through decentralized finance. By leveraging blockchain technology, PrideToken provides funding for grants, scholarships, and various community-driven projects. Our crowdfunding platform allows LGBTQ+ users and allies to start campaigns and receive funds in PrideToken (PRD).
 
-PrideFunding Network is registered in Ohio as the DBA (Doing Business As) of Boys & Girls Clubs of Senegal. Official registration details are as follows:
+Pride Funding Network is registered in Ohio as the DBA (Doing Business As) of Boys & Girls Clubs of Senegal. Official registration details are as follows:
 
 EIN: 83-3699796
 
