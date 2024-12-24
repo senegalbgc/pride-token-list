@@ -23,3 +23,7 @@ cache/
 
 test/
 
+# Ignore environment files and sensitive config
+.env
+hardhat.config.cjs
+
