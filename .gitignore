@@ -21,7 +21,9 @@ scripts/verify.js
 artifacts/
 cache/
 
-test/
+# Ignore specific test directory; modify to allow necessary test files  
+!test  
+!test/liquidityMiningTest.cjs 
 
 # Ignore environment files and sensitive config
 .env
