@@ -1,0 +1,23 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore specific script files
+scripts/addLiquidity.js
+scripts/checkAndMintPRD.js
+scripts/checkPRDBalance.cjs
+scripts/check_addresses.js
+scripts/deploy.cjs
+scripts/transfer-tokens.cjs
+scripts/validateOwner.js
+scripts/verify.js
+
+# Ignore other sensitive data
+*.log
+
+# Other possible exclusions
+artifacts/
+cache/
+
